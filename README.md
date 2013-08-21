@@ -103,14 +103,13 @@ Installation
 
 Yota has no dependencies on other libraries or packages except for its rendering engine. To install Yota just do:
 
-+ pip install yota jinja2
++ pip install yota
 
 Or you can install it from Git with:
 
 + git clone https://github.com/icook/yota.git
 + cd yota
 + pip install .
-+ pip install jinja2
 
 License
 ================
